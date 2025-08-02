@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="atheriumplugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/atheriumplugin_jar</output-path>
+    <root id="root">
+      <element id="archive" name="atheriumplugin.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$USER_HOME$/Desktop/Server/plugins/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="atheriumplugin" />
+      </element>
+    </root>
+  </artifact>
+</component>

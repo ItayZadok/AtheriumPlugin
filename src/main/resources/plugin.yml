@@ -1,0 +1,19 @@
+name: AtheriumPlugin
+version: '1.0-SNAPSHOT'
+main: org.atheriumPlugin.AtheriumPlugin
+api-version: '1.20'
+commands:
+  abilityMenu:
+    description: "opens the ability selection GUI"
+  stats:
+    description: "opens the stats GUI"
+  setPoints:
+    description: "allows you to set your ability points"
+  getItem:
+    description: "let you get custom items"
+  spawnCustom:
+    description: "summon a custom mob"
+  updateItems:
+    description: "updates the items in your inventory"
+  heal:
+    description: "heals you"
